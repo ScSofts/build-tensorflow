@@ -9,8 +9,8 @@ platform:
 environment:
   os_name: windows
   tf_type: cpu
-  tf_tag_name: r1.6
-  tf_version: 1.6.0
+  tf_tag_name: r2.5
+  tf_version: 2.5.0
 
   matrix:
     - vcvar_arg: x86
